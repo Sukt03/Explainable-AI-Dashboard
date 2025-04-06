@@ -19,14 +19,20 @@ cd explainable-ai-dashboard
 2. Create and activate a virtual environment (optional)
    python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install dependencies
+4. Install dependencies
    pip install -r requirements.txt
-4. Run the app
+5. Run the app
    streamlit run app.py
 
  Sample Dataset
 
 A sample dataset (sample_regression_data.csv) is provided for testing. It includes both categorical and numerical features for regression tasks.
+
+<img width="1728" alt="Screenshot 2025-04-07 at 2 01 51 AM" src="https://github.com/user-attachments/assets/15be104f-11ee-46f2-b592-6f0726caf3d3" />
+
+![image](https://github.com/user-attachments/assets/1c28c51c-b37c-4be4-9bce-fce23675485b)
+![image](https://github.com/user-attachments/assets/97528c13-980e-4e6d-923c-e5c0a405c12b)
+
 
 🔧 Tech Stack
 	•	Python
