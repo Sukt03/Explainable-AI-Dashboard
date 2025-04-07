@@ -12,6 +12,11 @@ A Streamlit-based interactive dashboard for interpreting Machine Learning models
 	•	Downloadable SHAP visualizations
 	•	Handles both numerical and categorical features
 
+![image](https://github.com/user-attachments/assets/a93ed0c3-50c5-431f-b5a2-f6eeb8edfe81)
+![image](https://github.com/user-attachments/assets/59db57e0-9895-467c-b372-bcc625122116)
+![image](https://github.com/user-attachments/assets/b62a4d67-d8f6-4f5b-a22d-a3b088de8064)
+
+
 🚀 Getting Started
 
 1. Clone the repository
