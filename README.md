@@ -3,6 +3,7 @@ Explainable AI Dashboard
 A Streamlit-based interactive dashboard for interpreting Machine Learning models using SHAP (SHapley Additive exPlanations).
 
 📌 Features
+
 	•	Upload your own CSV datasets
 	•	Automatically detects classification or regression tasks
 	•	Trains a Random Forest model
