@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/explainable-ai-dashboard.git
+git clone https://github.com/Sukt03/Explainable-AI-Dashboard.git
 cd explainable-ai-dashboard
 ```
 
